@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.meetautocode;
+package com.comname.rd.autotasks.meetautocode;
 
 import java.util.Scanner;
 
