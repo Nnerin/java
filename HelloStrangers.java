@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.meetstrangers;
+package com.comname.rd.autotasks.meetstrangers;
 
 import java.util.Scanner;
 
