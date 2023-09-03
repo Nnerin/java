@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.arrays;
+package com.rd.autotasks.arrays;
 
 import java.util.Arrays;
 
